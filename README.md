@@ -3,7 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/koehnhunter" target="blank"><img src="https://img.shields.io/twitter/follow/koehnhunter?logo=twitter&style=for-the-badge" alt="koehnhunter" /></a> </p>
 
+- 👨‍💻 My projects are available at [https://hunter-koehn-portfolio.netlify.app/](https://hunter-koehn-portfolio.netlify.app/)
+
 - 📫 How to reach me **huntertkoehn@gmail.com**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vSSKtv1uV0PBgkvT5GfvkfaWzZXshODvvqqjHbGzJgjIusb_fzCKI8THtJalco2Ag/pub](https://docs.google.com/document/d/e/2PACX-1vSSKtv1uV0PBgkvT5GfvkfaWzZXshODvvqqjHbGzJgjIusb_fzCKI8THtJalco2Ag/pub)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
