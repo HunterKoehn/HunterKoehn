@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hunter Koehn, a software engineer @100Devs</h1>
+<h1 align="center">Hi 👋, I'm Hunter Koehn, a software engineer</h1>
 <h3 align="center">A passionate full stack engineer in the Austin, Texas area</h3>
 
 - 👨‍💻 My projects are available at [https://hunter-koehn-portfolio.netlify.app/](https://hunter-koehn-portfolio.netlify.app/)
